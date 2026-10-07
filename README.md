@@ -1,0 +1,2 @@
+# SonicBots-AI-Real-Time-Communication-Multiplayer-Gaming-Platform
+Developed a full-stack interactive platform featuring **20+ AI conversation bots, WebRTC voice/video calls, real-time chat, multiplayer gaming, in-game money transfers, Face ID authentication, and 3-clap sound-based login**. Built real-time APIs and backend services using **Next.js, Node.js, Spring Boot, Python, WebRTC, and REST APIs
